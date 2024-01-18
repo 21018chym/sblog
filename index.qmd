@@ -1,0 +1,14 @@
+---
+title: "sblog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+이광춘 워크샵 블로그에 오신 것을 환영합니다.
